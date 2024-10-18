@@ -1,7 +1,5 @@
-# Desafio-6-DNC---Prevendo-Churn-com-moelos-de-classifica-o
+# Prevendo Churn com modelos de classificação
 Utilizando modelos de classificação para prever possíveis usuários de streaming a deixarem a plataforma (churn).
-
-# Desafio: Preveja os Usuários com Alta Chance de Deixar seu Streaming
 
 Introdução
 Este repositório contém um desafio de classificação para prever quais usuários têm maior chance de cancelar sua assinatura de uma plataforma de streaming. Compreender o perfil dos usuários que estão aumentando o churn é essencial para tomar ações que reduzam essas perdas.
